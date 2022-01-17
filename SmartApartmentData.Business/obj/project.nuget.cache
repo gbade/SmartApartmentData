@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/KmUQyyN3HmstPq9FuJ8CNOkkjONAdXRF8r0Lu2u0TJqGro7sxfN/UoXqtdLCDPl45OaEdHIAFTHaOC6QkTyvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\GBADEBO\\Source\\Repos\\SmartApartmentData\\SmartApartmentData.Business\\SmartApartmentData.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GBADEBO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\GBADEBO\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+  ],
+  "logs": []
+}

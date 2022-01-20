@@ -4,6 +4,7 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'SmartApartmentData' " />
   <ItemGroup>
     <ProjectReference Include="..\SmartApartmentData.Business\SmartApartmentData.Business.csproj" />
   </ItemGroup>

@@ -8,5 +8,6 @@ namespace SmartApartmentData.Business.Managers
     public class SmartConfigManager : ISmartConfigManager
     {
         public string APIGateway { get; set; }
+        public string AuthKey { get; set; }
     }
 }

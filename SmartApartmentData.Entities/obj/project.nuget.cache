@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+5krnFuVN3Uq5vpQ33jIsIgparAwZZCivq7OT/ioCMvfknSEt1vzYgoJfqjNFry4mLzwGifdhluslbAGfTICqQ==",
+  "dgSpecHash": "MpUSixWeN7a6JoPpJYqnXDC6HTF6lXrBsR08rAdeaaYbZ4F7wA47CAav/MseTcJxpFAzqdivFuvsITu/cemHag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GBADEBO\\Source\\Repos\\SmartApartmentData\\SmartApartmentData.Entities\\SmartApartmentData.Entities.csproj",
+  "projectFilePath": "/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Entities/SmartApartmentData.Entities.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GBADEBO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "/Users/deboayangbile/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
   ],
   "logs": []
 }

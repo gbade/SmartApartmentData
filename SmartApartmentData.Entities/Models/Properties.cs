@@ -1,32 +1,18 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel.DataAnnotations;
-using Newtonsoft.Json;
-using System.Text;
+﻿using Newtonsoft.Json;
 
 namespace SmartApartmentData.Entities.Models
 {
     public class Properties
     {
-        [JsonProperty("propertyID")]
-        public int PropertyID { get; set; }
-        [JsonProperty("name")]
-        public string Name { get; set; }
-        [JsonProperty("formerName")]
-        public string FormerName { get; set; }
-        [JsonProperty("streetAddress")]
-        public string StreetAddress { get; set; }
-        [JsonProperty("city")]
-        public string City { get; set; }
-        [JsonProperty("market")]
-        public string Market { get; set; }
-        [JsonProperty("state")]
-        public string State { get; set; }
-        [JsonProperty("lat")]
-        public float Lat { get; set; }
-        [JsonProperty("lng")]
-        public float Lng { get; set; }
-        [JsonProperty("mgmtID")]
-        public int MgmtID { get; set; }
+        public int propertyID { get; set; }
+        public string name { get; set; }
+        public string formerName { get; set; }
+        public string streetAddress { get; set; }
+        public string city { get; set; }
+        public string market { get; set; }
+        public string state { get; set; }
+        public float lat { get; set; }
+        public float lng { get; set; }
+        public int mgmtID { get; set; }
     }
 }

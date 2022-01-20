@@ -8,4 +8,11 @@
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Models\Response\" />
+    <None Remove="Models\ResultsViewModel\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Models\Response\" />
+  </ItemGroup>
 </Project>

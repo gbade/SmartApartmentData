@@ -5,6 +5,6 @@ namespace SmartApartmentData.Business.Contracts
 {
     public interface IPropertiesManager
     {
-        public IEnumerable<Properties> GetDistinctProperties(string queryParam, string filter);
+        public IEnumerable<Properties> GetDistinctProperties(Properties queryparams);
     }
 }

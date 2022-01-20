@@ -50,7 +50,7 @@ namespace SmartApartmentData.Business.Helper
                 var request = new RestRequest(Method.GET);
 
                 if (!string.IsNullOrEmpty(authkey))
-                    request.AddHeader("Authorization", authkey);
+                    request.AddHeader("Authorization", $"Basic {authkey}");
 
                 request.AddHeader("content-type", "application/json");
 

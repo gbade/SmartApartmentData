@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "/KmUQyyN3HmstPq9FuJ8CNOkkjONAdXRF8r0Lu2u0TJqGro7sxfN/UoXqtdLCDPl45OaEdHIAFTHaOC6QkTyvA==",
+  "dgSpecHash": "Y4xPm5J2kN98RpWSaE21tyHf5fdG8qJxl5ZUDN11DFmDmeA8ZnfKm6YOFH/J6ujjyZIx5NS6iTsimgTH54A12Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GBADEBO\\Source\\Repos\\SmartApartmentData\\SmartApartmentData.Business\\SmartApartmentData.Business.csproj",
+  "projectFilePath": "/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/SmartApartmentData.Business.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\GBADEBO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\GBADEBO\\.nuget\\packages\\restsharp\\106.15.0\\restsharp.106.15.0.nupkg.sha512"
+    "/Users/deboayangbile/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/deboayangbile/.nuget/packages/restsharp/106.15.0/restsharp.106.15.0.nupkg.sha512"
   ],
   "logs": []
 }

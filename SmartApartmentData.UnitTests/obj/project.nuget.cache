@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bLXuC4xpix1NH93KZg/qFt8hEMZBC7LSE0t8ghFilFCHdAcNz7f9/5dil+GKJ9T6K3NQ9XVwDN9kQfo0mSXwTQ==",
+  "dgSpecHash": "P7BbLtHR2yhlGhpzKcWciuRqjyg+OT1j3lf7SPKlFIiYnkEkD+UP+b3HI5l6VgAJZvr/tfmABc4f+gLaKl8Zmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GBADEBO\\Source\\Repos\\SmartApartmentData\\SmartApartmentData.UnitTests\\SmartApartmentData.UnitTests.csproj",
+  "projectFilePath": "/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.UnitTests/SmartApartmentData.UnitTests.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

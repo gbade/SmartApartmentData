@@ -1,0 +1,13 @@
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/bin/Debug/netcoreapp3.1/SmartApartmentData.Business.deps.json
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/bin/Debug/netcoreapp3.1/SmartApartmentData.Business.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/bin/Debug/netcoreapp3.1/SmartApartmentData.Business.pdb
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/bin/Debug/netcoreapp3.1/SmartApartmentData.Entities.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/bin/Debug/netcoreapp3.1/SmartApartmentData.Entities.pdb
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.csproj.AssemblyReference.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.AssemblyInfoInputs.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.AssemblyInfo.cs
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.csproj.CoreCompileInputs.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.csproj.CopyComplete
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Business/obj/Debug/netcoreapp3.1/SmartApartmentData.Business.pdb

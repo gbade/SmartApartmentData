@@ -1,11 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using SmartApartmentData.Entities.Models;
 using SmartApartmentData.Business.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace SmartApartmentData.Controllers
 {
@@ -23,6 +18,10 @@ namespace SmartApartmentData.Controllers
         [HttpGet]
         public IActionResult GetProperties([FromQuery] Properties queryparams)
         {
+            if (queryparams == null
+                || string.IsNullOrEmpty(queryparams.market))
+                return BadRequest(queryparams);
+
             var response = _manager.GetDistinctProperties(queryparams);
             return Ok(response);
         }

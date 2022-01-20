@@ -3,8 +3,6 @@ using SmartApartmentData.Business.Helper;
 using SmartApartmentData.Entities.Models;
 using System.Linq;
 using System.Collections.Generic;
-using System.Text;
-using System.Dynamic;
 using Newtonsoft.Json;
 
 namespace SmartApartmentData.Business.Managers
@@ -23,12 +21,14 @@ namespace SmartApartmentData.Business.Managers
             var auth = _config.AuthKey;
             var api = new RestActionHelper();
             var properties = new List<Properties>();
+            var cred = new StringHelper();
 
             //get uri parameters and build
             var url = BuildApiUrl(queryparams);
 
             //make api call
-            var response = api.CallGetAction<QueryResponse>(url, auth);
+            var authkey = cred.DecryptCredentials(auth);
+            var response = api.CallGetAction<QueryResponse>(url, authkey);
             if (response != null)
             {
                 var res = response.hits.hits;
@@ -45,6 +45,8 @@ namespace SmartApartmentData.Business.Managers
             var distinctProp = GroupDistinctProperties(properties);
             return distinctProp;
         }
+
+
 
         private string BuildApiUrl(Properties parameters)
         {

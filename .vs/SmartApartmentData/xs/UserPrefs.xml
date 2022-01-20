@@ -1,29 +1,40 @@
-﻿<Properties StartupConfiguration="{D9B4BE77-56D8-44F9-9D27-FACB5C624801}|Default">
+﻿<Properties StartupConfiguration="{3638E7E9-EEA5-4442-88A1-75A7AD600DC1}|SmartApartmentData">
   <MonoDevelop.Ide.Workbench ActiveDocument="SmartApartmentData.Web/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="SmartApartmentData/Controllers/PropertiesController.cs" Line="16" Column="9" />
-      <File FileName="SmartApartmentData.Web/Models/PropertyViewModel.cs" Line="9" Column="16" />
-      <File FileName="SmartApartmentData.Web/Controllers/HomeController.cs" Line="30" Column="1" />
-      <File FileName="SmartApartmentData.Business/Managers/PropertiesManager.cs" Line="45" Column="1" />
-      <File FileName="SmartApartmentData.Business/Helper/RestActionHelper.cs" Line="37" Column="1" />
-      <File FileName="SmartApartmentData.Entities/Models/QueryObject.cs" Line="27" Column="40" />
-      <File FileName="SmartApartmentData/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.Business/Contracts/IPropertiesManager.cs" Line="8" Column="84" />
-      <File FileName="SmartApartmentData.Business/Helper/UrlHelper.cs" Line="17" Column="63" />
-      <File FileName="SmartApartmentData/appsettings.json" Line="15" Column="1" />
-      <File FileName="SmartApartmentData.Entities/Models/Response/QueryResponse.cs" Line="8" Column="38" />
-      <File FileName="SmartApartmentData.Entities/Models/Properties.cs" Line="11" Column="1" />
-      <File FileName="SmartApartmentData/Startup.cs" Line="13" Column="45" />
-      <File FileName="SmartApartmentData.Web/Startup.cs" Line="12" Column="44" />
-      <File FileName="SmartApartmentData.Web/appsettings.json" Line="13" Column="4" />
-      <File FileName="SmartApartmentData.Web/Views/Home/Index.cshtml" Line="134" Column="27" />
-      <File FileName="SmartApartmentData.Entities/Models/Management.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.Web/Views/Shared/_Layout.cshtml" Line="45" Column="76" />
+      <File FileName="SmartApartmentData/Controllers/PropertiesController.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData.Business/Managers/SmartConfigManager.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData/Startup.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData/appsettings.json" Line="12" Column="13" />
+      <File FileName="SmartApartmentData.Business/Contracts/ISmartConfigManager.cs" Line="10" Column="30" />
+      <File FileName="SmartApartmentData.Business/Contracts/IPropertiesManager.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData.Business/Managers/PropertiesManager.cs" Line="46" Column="29" />
+      <File FileName="SmartApartmentData.Business/Helper/UrlHelper.cs" Line="52" Column="51" />
+      <File FileName="SmartApartmentData.Business/Helper/StringHelper.cs" Line="32" Column="23" />
+      <File FileName="SmartApartmentData.Entities/Models/QueryObject.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData.Entities/Models/Response/QueryResponse.cs" Line="1" Column="1" />
+      <File FileName="SmartApartmentData.UnitTests/SmartUnitTests.cs" Line="64" Column="29" />
+      <File FileName="SmartApartmentData.Upload/Program.cs" Line="26" Column="51" />
+      <File FileName="SmartApartmentData.Web/Views/Home/Index.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SmartApartmentData" expanded="True">
+            <Node name="SmartApartmentData.API" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="SmartApartmentData.Business" expanded="True">
+              <Node name="Contracts" expanded="True" />
+              <Node name="Helper" expanded="True" />
+              <Node name="Managers" expanded="True" />
+            </Node>
+            <Node name="SmartApartmentData.Entities" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Response" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="SmartApartmentData.UnitTests" expanded="True" />
+            <Node name="SmartApartmentData.Upload" expanded="True" />
             <Node name="SmartApartmentData.Web" expanded="True">
               <Node name="Views" expanded="True">
                 <Node name="Home" expanded="True">
@@ -34,15 +45,26 @@
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SmartApartmentData" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.SmartApartmentData.API PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SmartApartmentData.Upload PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.SmartApartmentData.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData/Controllers/PropertiesController.cs" relfile="SmartApartmentData/Controllers/PropertiesController.cs" line="25" column="1" />
+      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.UnitTests/SmartUnitTests.cs" relfile="SmartApartmentData.UnitTests/SmartUnitTests.cs" line="80" column="1" />
+      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/Program.cs" relfile="SmartApartmentData.Upload/Program.cs" line="14" column="1" />
+      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/Program.cs" relfile="SmartApartmentData.Upload/Program.cs" line="110" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

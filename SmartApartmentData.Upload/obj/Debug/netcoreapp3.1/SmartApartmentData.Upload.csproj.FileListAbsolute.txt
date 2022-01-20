@@ -1,0 +1,15 @@
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.csproj.AssemblyReference.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.AssemblyInfoInputs.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.AssemblyInfo.cs
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.csproj.CoreCompileInputs.cache
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/SmartApartmentData.Upload.deps.json
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/SmartApartmentData.Upload.runtimeconfig.json
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/SmartApartmentData.Upload.runtimeconfig.dev.json
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/SmartApartmentData.Upload.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/SmartApartmentData.Upload.pdb
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.csproj.CopyComplete
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.dll
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.pdb
+/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/obj/Debug/netcoreapp3.1/SmartApartmentData.Upload.genruntimeconfig.cache

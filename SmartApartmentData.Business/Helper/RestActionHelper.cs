@@ -68,7 +68,7 @@ namespace SmartApartmentData.Business.Helper
                 };
 
                 if (!string.IsNullOrEmpty(authkey))
-                    request.AddHeader("Authorization", authkey);
+                    request.AddHeader("Authorization", $"Basic {authkey}");
 
                 request.AddHeader("content-type", "application/json");
                 request.AddParameter("application/json", json, ParameterType.RequestBody);

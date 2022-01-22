@@ -1,20 +1,21 @@
 ﻿<Properties StartupConfiguration="{3638E7E9-EEA5-4442-88A1-75A7AD600DC1}|SmartApartmentData">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmartApartmentData.Web/Views/Home/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartApartmentData.Business/Helper/RestActionHelper.cs">
     <Files>
       <File FileName="SmartApartmentData/Controllers/PropertiesController.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.Business/Managers/SmartConfigManager.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData/Startup.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData/appsettings.json" Line="12" Column="13" />
-      <File FileName="SmartApartmentData.Business/Contracts/ISmartConfigManager.cs" Line="10" Column="30" />
+      <File FileName="SmartApartmentData.Business/Managers/SmartConfigManager.cs" />
+      <File FileName="SmartApartmentData/Startup.cs" />
+      <File FileName="SmartApartmentData/appsettings.json" />
+      <File FileName="SmartApartmentData.Business/Contracts/ISmartConfigManager.cs" />
       <File FileName="SmartApartmentData.Business/Contracts/IPropertiesManager.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.Business/Managers/PropertiesManager.cs" Line="46" Column="29" />
-      <File FileName="SmartApartmentData.Business/Helper/UrlHelper.cs" Line="52" Column="51" />
-      <File FileName="SmartApartmentData.Business/Helper/StringHelper.cs" Line="32" Column="23" />
-      <File FileName="SmartApartmentData.Entities/Models/QueryObject.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.Entities/Models/Response/QueryResponse.cs" Line="1" Column="1" />
-      <File FileName="SmartApartmentData.UnitTests/SmartUnitTests.cs" Line="64" Column="29" />
-      <File FileName="SmartApartmentData.Upload/Program.cs" Line="26" Column="51" />
-      <File FileName="SmartApartmentData.Web/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="SmartApartmentData.Business/Managers/PropertiesManager.cs" />
+      <File FileName="SmartApartmentData.Business/Helper/UrlHelper.cs" />
+      <File FileName="SmartApartmentData.Business/Helper/StringHelper.cs" />
+      <File FileName="SmartApartmentData.Entities/Models/QueryObject.cs" />
+      <File FileName="SmartApartmentData.Entities/Models/Response/QueryResponse.cs" />
+      <File FileName="SmartApartmentData.UnitTests/SmartUnitTests.cs" />
+      <File FileName="SmartApartmentData.Upload/Program.cs" Line="106" Column="38" />
+      <File FileName="SmartApartmentData.Web/Views/Home/Index.cshtml" />
+      <File FileName="SmartApartmentData.Business/Helper/RestActionHelper.cs" Line="14" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,7 +26,9 @@
             </Node>
             <Node name="SmartApartmentData.Business" expanded="True">
               <Node name="Contracts" expanded="True" />
-              <Node name="Helper" expanded="True" />
+              <Node name="Helper" expanded="True">
+                <Node name="RestActionHelper.cs" selected="True" />
+              </Node>
               <Node name="Managers" expanded="True" />
             </Node>
             <Node name="SmartApartmentData.Entities" expanded="True">
@@ -37,20 +40,10 @@
             <Node name="SmartApartmentData.Upload" expanded="True" />
             <Node name="SmartApartmentData.Web" expanded="True">
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="Index.cshtml" selected="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
               </Node>
             </Node>
           </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="SmartApartmentData" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -63,8 +56,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.UnitTests/SmartUnitTests.cs" relfile="SmartApartmentData.UnitTests/SmartUnitTests.cs" line="80" column="1" />
-      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/Program.cs" relfile="SmartApartmentData.Upload/Program.cs" line="14" column="1" />
-      <Breakpoint file="/Users/deboayangbile/Projects/SmartApartmentData/SmartApartmentData.Upload/Program.cs" relfile="SmartApartmentData.Upload/Program.cs" line="110" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
